@@ -1,0 +1,6 @@
+{
+  "name": "ClickRemoto",
+  "description": "Controla el disparador de tu cámara desde otro dispositivo cercano mediante Bluetooth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

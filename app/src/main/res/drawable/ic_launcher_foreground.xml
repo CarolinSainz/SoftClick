@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Camera Body (centered around 54, 54) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 32,44 C 32,41.8 33.8,40 36,40 H 42 L 45,35 H 63 L 66,40 H 72 C 74.2,40 76,41.8 76,44 V 68 C 76,70.2 74.2,72 72,72 H 36 C 33.8,72 32,70.2 32,68 Z" />
+        
+    <!-- Outer Lens Ring (SkyBlue Accent) -->
+    <path
+        android:fillColor="#0EA5E9"
+        android:pathData="M 54,46 C 49.6,46 46,49.6 46,54 C 46,58.4 49.6,62 54,62 C 58.4,62 62,58.4 62,54 C 62,49.6 58.4,46 54,46 Z" />
+        
+    <!-- Inner Lens Aperture -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M 54,50 C 51.8,50 50,51.8 50,54 C 50,56.2 51.8,58 54,58 C 56.2,58 58,56.2 58,54 C 58,51.8 56.2,50 54,50 Z" />
+
+    <!-- Flash dot -->
+    <path
+        android:fillColor="#0EA5E9"
+        android:pathData="M 68,45 C 68,44.4 68.4,44 69,44 C 69.6,44 70,44.4 70,45 C 70,45.6 69.6,46 69,46 C 68.4,46 68,45.6 68,45 Z" />
+
+    <!-- Bluetooth / Shutter Remote trigger waves (top-right radiating arcs) -->
+    <path
+        android:fillColor="#0EA5E9"
+        android:pathData="M 72,32 C 75,35 77,39 77,43 H 79 C 79,38 77,33 73.5,30 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 76,26 C 81,30.5 84,37 84,43 H 86 C 86,36 82.5,28.5 77.5,24 Z" />
+
+</vector>
